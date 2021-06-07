@@ -21,6 +21,6 @@
 ### Evaluate Model
 ![v5](https://user-images.githubusercontent.com/54672242/120421157-f8646200-c38f-11eb-99ae-c598042fce76.jpg)
 
-# So, We choose Transfer Learning using Efficicient as an ML Model for build Android App and Web App
+# So, We choose Transfer Learning using EfficientNet as an ML Model for build Android App and Web App
 
 ## Thank you !!! B21-CAP0290 :)
